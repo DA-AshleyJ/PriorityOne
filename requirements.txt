@@ -1,0 +1,6 @@
+Flask
+gunicorn
+requests
+twilio
+azure-identity
+azure-keyvault-secrets

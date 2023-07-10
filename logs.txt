@@ -1,0 +1,14 @@
+2023-05-05 14:10:06,131 - INFO Logs exported
+2023-05-05 14:10:10,001 - INFO Starting PriorityOne with on-call number: +447904750242
+2023-05-05 14:13:04,617 - DEBUG PriorityOne main.py is not running
+2023-05-05 14:13:38,285 - INFO Starting PriorityOne with on-call number: +447904750242
+2023-05-05 14:13:39,084 - INFO Checked for new P1 tickets: 0 found
+2023-05-05 14:13:42,727 - INFO Stopping main.py...
+2023-05-05 14:13:42,727 - INFO Starting PriorityOne with on-call number: +447904750242
+2023-05-05 14:13:43,214 - INFO Checked for new P1 tickets: 0 found
+2023-05-05 14:13:52,868 - INFO Stopping main.py...
+2023-05-05 14:13:52,868 - INFO PriorityOne main.py stopped!
+2023-05-05 14:13:58,415 - INFO Starting PriorityOne with on-call number: +447969661208
+2023-05-05 14:13:59,454 - INFO Checked for new P1 tickets: 0 found
+2023-05-05 14:14:02,678 - INFO Stopping main.py...
+2023-05-05 14:14:02,678 - INFO PriorityOne main.py stopped!
