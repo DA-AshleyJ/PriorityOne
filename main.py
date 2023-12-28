@@ -31,7 +31,7 @@ os.environ["AZURE_CLIENT_SECRET"] = ""
 os.environ["AZURE_TENANT_ID"] = ""
 
 # Phone numbers
-User = "+447904750242"
+User = "999999999"
 
 OnCallNumber = User
 
