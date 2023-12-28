@@ -6,8 +6,11 @@ This is an application I built out of hours for a company I worked for which use
 # Requirements: 
 
 Azure KeyVault.
+
 Twilio Subscription for voice calling
+
 Zendesk API token
+
 Python
 
 # Environment Variables
